@@ -1,38 +1,19 @@
+<h1 align="center">XerXes</h1>
+<p align="center">
+  The Most Powerful DoS tool
+</p>
 
-<html>
-    <h1 style="text-align:center;">XERXES</h1>
-    <h4>XERXES the most powerful DoS tool by zanyarjamal</h4>
+### CLONE
+```
+# git clone https://github.com/CyberXCodder/XerXes.git
+```
 
-Download the File xerxes.c to your Desktop
+### COMPILE
+```
+# gcc xerxes.c -o xerxes
+```
 
-Open Terminal and type these commands
-
-#command list
-
-#git clone https://github.com/ariyanshipu/xerxes.git
-
-#cd Desktop
-
-#gcc xerxes.c -o xerxes
-
-#./xerxes www.target.com 80
-
-////////////
-#On Android:
-
-#Open Termux app
-
-#Install Git
-
-#Install Clang
-
-#git clone https://github.com/ariyanshipu/xerxes.git
-
-#cd xerxes
-
-#chmod +x *
-
-#clang xerxes.c -o xerxes
-
-*Usage: ./xerxes www.targetsite.com 80
-
+### RUNNING
+```
+# ./xerxes www.fakesite.com 80
+```
